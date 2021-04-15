@@ -1,5 +1,9 @@
 # Pokesim
 
+<h3><a href="https://paulb-h.github.io/pokeSim/" target="_blank">Live Site</a></h3>
+
+<hr /> 
+
 For this project we used PokeApi
 Our initial idea was for a Pokedex, however since that would not have been enough of a challenge, we settled on doing a simple battle simulator.
 The API is quite robust, organized, and easy to use. We were easily able to identify the stats we would need to grab from our returned Pokemon “objects” and even had sprites to work with.
